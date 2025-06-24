@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there, I'm Saad Mehamdi
 
-<!--
-**Saadix-1/Saadix-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering student at the University of Ottawa  
+💡 Passionate about Software Development and Artificial Intelligence  
+📚 Currently exploring Data Science, AI, and Java backend systems  
+📍 Based in Ottawa
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 My Top Used Languages on GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saadix-1&layout=compact&langs_count=6&hide=html)
+
+---
+
+## 🔗 Links
+
+- 🌐 [My Portfolio Website](https://github.com/Saadix-1/Portfolio)
+- 📘 [CS50 AI Projects](https://github.com/Saadix-1/cs50ai-main-projects)
+- 📊 [SQL Capstone](https://github.com/Saadix-1/SQL-for-data-science-Capstone-Project)
+- 💪 [Push Fitness App](https://github.com/Saadix-1/uottawa-seg2900-web.github.io)
