@@ -9,7 +9,7 @@
 
 ## 📊 My Top Used Languages on GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saadix-1&layout=compact&langs_count=6&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saadix-1&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5)
 
 ---
 
