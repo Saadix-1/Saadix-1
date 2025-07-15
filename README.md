@@ -34,6 +34,6 @@ Built using Retrieval-Augmented Generation (RAG) and modern LLM APIs (OpenAI, Cl
 
 ## Articles on Medium
 
-I write about AI, LLMs, and software projects here:  
+I write about AI, LLMs, and software projects here:   
 👉 [medium.com/@saadmehamdi2018](https://medium.com/@saadmehamdi2018)
 
