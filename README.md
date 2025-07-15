@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Saad Mehamdi
+# 👋 Hi there, I'm Saad Mehamdi  
 
 🎓 Software Engineering student at the University of Ottawa       
 💡 Passionate about Software Development and Artificial Intelligence  
