@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Saad Mehamdi  
-
+ 
 🎓 Software Engineering student at the University of Ottawa       
 💡 Passionate about Software Development and Artificial Intelligence  
 📚 Currently exploring Data Science, Artificial Intelligence, and Java-based backend development 
