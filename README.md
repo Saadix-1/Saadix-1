@@ -18,7 +18,7 @@
 
 --- 
 
-## 🔗 Links
+## 🔗 Links 
 
 - 🌐 [My Portfolio Website](https://github.com/Saadix-1/Portfolio)
 - 📘 [CS50 AI Projects](https://github.com/Saadix-1/cs50ai-main-projects)
@@ -26,7 +26,6 @@
 - 💪 [Push Fitness Website](https://github.com/Saadix-1/uottawa-seg2900-web.github.io)
 - 📄 [Log Analyser](https://github.com/Saadix-1/log-analyzer-api)
 - 📄 Intelligent PDF Chatbot with LLM (in progress)
-
 This tool allows users to chat with one or multiple PDF documents using natural language.  
 Built using Retrieval-Augmented Generation (RAG) and modern LLM APIs (OpenAI, Claude, etc). 
 
