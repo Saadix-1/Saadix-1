@@ -6,7 +6,7 @@
 
 📍 Based in Ottawa
   
-
+   
 "Be uncommon amongst the uncommon. Don’t just settle for average, push beyond what you think are your limits."
 — David Goggins
  
