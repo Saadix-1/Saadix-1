@@ -13,11 +13,7 @@
 ---     
    
 ## 📊 My Top Used Languages on GitHub  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saadix-1&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5)
-
---- 
-
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saadix-1&theme=default)--- 
 ## 🔗 Links 
 
 - 🌐 [My Portfolio Website](https://github.com/Saadix-1/Portfolio)
