@@ -2,7 +2,7 @@
  
 🎓 Software Engineering student at the University of Ottawa       
 💡 Interested in AI systems, LLM applications, and backend development
-📚 Currently exploring Data Science, Artificial Intelligence, and Java-based backend development
+📚 Currently exploring Data Science, Artificial Intelligence, and Java-based backend development     
 
 📍 Based in Ottawa   
 
