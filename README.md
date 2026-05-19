@@ -27,7 +27,7 @@ The system extracts text from PDFs, generates embeddings, performs semantic sear
 * React frontend
 * OpenAI embeddings
 * Pinecone vector database
-* Docker deployment
+* AWS deployment
 
 🔗 Project: https://github.com/Saadix-1/smartpdf-chatbot
 
