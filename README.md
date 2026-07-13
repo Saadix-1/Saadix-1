@@ -61,11 +61,11 @@ The system extracts text from PDFs, generates embeddings, performs semantic sear
 - 🌐 [My Portfolio Website](https://github.com/Saadix-1/Portfolio)
 - 🤖 [Intelligent PDF Chatbot with LLM](https://github.com/Saadix-1/smartpdf-chatbot)
 - ⚡ [n8n AI Automation Workflows](https://github.com/Saadix-1/n8n-ai-workflows)
-- 🏆 [Hackathon Project](https://github.com/Saadix-1/uOttawahackathon)
+- 🏫 [Hackathon Project](https://github.com/Saadix-1/uOttawahackathon)
 - 📜 [Log Analyser](https://github.com/Saadix-1/log-analyzer-api)
+- 🏆 [World Cup Prediction](https://github.com/Saadix-1/wc2026-predictor)
 - 🗣️ [Speech to text API](https://github.com/Saadix-1/speech_to_text)
 - 📊 [SQL Capstone](https://github.com/Saadix-1/SQL-for-data-science-Capstone-Project)
-- 💪 [Push Fitness Website](https://github.com/Saadix-1/uottawa-seg2900-web.github.io)
 
 ---
 
