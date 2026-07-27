@@ -1,6 +1,6 @@
 # Hey there, I'm Saad! 👋
  
-### 🚀 Software & Cloud Engineer | Specializing in Serverless Architecture & Generative AI
+### 🚀 🚀 Software Engineering Student | Aspiring Cloud & AI Engineer
 
 I'm a software engineering student currently seeking **Co-op / Internship opportunities**. I build scalable cloud-native architectures, design event-driven serverless systems, and integrate generative AI pipelines.
 
