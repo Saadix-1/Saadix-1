@@ -1,34 +1,36 @@
-## 👋 Hi there, I'm Saad Mehamdi  
+# Hey there, I'm Saad! 👋
  
-🎓 Software Engineering student at the University of Ottawa       
-💡 Interested in AI systems, LLM applications, and backend development
+### 🚀 Software & Cloud Engineer | Specializing in Serverless Architecture & Generative AI
 
-📚 Currently exploring Data Science, Artificial Intelligence, and Java-based backend development     
-📍 Based in Ottawa   
+I'm a software engineering student currently seeking **Co-op / Internship opportunities**. I build scalable cloud-native architectures, design event-driven serverless systems, and integrate generative AI pipelines.
 
+*   🌍 Portfolio Website: [saadmehamdi.netlify.app](https://saadmehamdi.netlify.app/)
+*   💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/saad-mehamdi)
+*   ✍️ Read my tech write-ups on [Medium](https://medium.com/@saadmehamdi2018) 
 ---    
+
 "Be uncommon amongst the uncommon. Don't just settle for average, push beyond what you think are your limits." 
 — David Goggins
   
 ---    
 
-## 🚀 Featured Projects
+## ⚡ Featured Projects
 
-### 🤖 Saad AI – Smart PDF Chatbot
+### 💬 [Saad AI – PDF Chatbot](https://github.com/Saadix-1/smartpdf-chatbot) — RAG-based PDF Assistant
+A Retrieval-Augmented Generation (RAG) assistant allowing users to upload documents and chat with them in real-time.
+*   **Tech Stack:** FastAPI, Python, OpenAI API, Pinecone Vector DB, Docker, AWS (EC2 + CloudFront + ACM SSL).
+*   *Live Demo:* [Live Chatbot Interface](https://d2ehw7ojcopifbu.cloudfront.net/)
 
-A cloud-native AI chatbot that allows users to upload PDF documents and ask questions about their content.
+### 🛠️ [DocuSense.AI](https://github.com/Saadix-1/serverless-ai-pipeline) — Serverless AI Document Pipeline
+An event-driven document intelligence pipeline. Users upload PDFs directly to S3 via presigned URLs, triggering isolated AWS Lambdas (Python 3.12) to parse text, call OpenAI's `gpt-4o-mini`, and index structured summary metadata in DynamoDB.
+*   **Tech Stack:** AWS Lambda, S3, DynamoDB, API Gateway, SSM Parameter Store, React, Vite, Tailwind v4, OpenAI API.
+*   *Key Engineering Highlight:* Bypassed circular dependencies by decoupling IAM policy structures using standard S3 resource wildcards.
 
-The system extracts text from PDFs, generates embeddings, performs semantic search, and produces intelligent answers using a large language model.
-
-**Built with:**
-
-* FastAPI backend
-* React frontend
-* OpenAI embeddings
-* Pinecone vector database
-* AWS deployment
-
-🔗 Project: https://github.com/Saadix-1/smartpdf-chatbot
+### ⚽ [WC2026.AI — World Cup Predictor](https://github.com/Saadix-1/wc2026-predictor) — Machine Learning Predictor
+An AI-powered simulator predicting the 2026 FIFA World Cup outcomes.
+*   **Tech Stack:** Python (XGBoost, Elo Rating models), TypeScript, React, Tailwind CSS, OpenAI GPT-4o.
+*   *Scale:* Trained on 45,000+ historical international matches and runs a 10,000-iteration Monte Carlo simulator.
+*   *Live Demo:* [Live Predictor Dashboard](https://frontend-tau-three-qvkb6oclcf.vercel.app)
 
 ---
 
@@ -56,20 +58,4 @@ The system extracts text from PDFs, generates embeddings, performs semantic sear
 ![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
-## 🔗 Links 
 
-- 🌐 [My Portfolio Website](https://github.com/Saadix-1/Portfolio)
-- 🤖 [Intelligent PDF Chatbot with LLM](https://github.com/Saadix-1/smartpdf-chatbot)
-- ⚡ [n8n AI Automation Workflows](https://github.com/Saadix-1/n8n-ai-workflows)
-- 🏫 [Hackathon Project](https://github.com/Saadix-1/uOttawahackathon)
-- 📜 [Log Analyser](https://github.com/Saadix-1/log-analyzer-api)
-- 🏆 [World Cup Prediction](https://github.com/Saadix-1/wc2026-predictor)
-- 🗣️ [Speech to text API](https://github.com/Saadix-1/speech_to_text)
-- 📊 [SQL Capstone](https://github.com/Saadix-1/SQL-for-data-science-Capstone-Project)
-
----
-
-## Articles on Medium
-
-I write about AI, LLMs, and software projects here:   
-👉 [medium.com/@saadmehamdi2018](https://medium.com/@saadmehamdi2018)
